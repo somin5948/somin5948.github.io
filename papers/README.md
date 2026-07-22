@@ -7,8 +7,8 @@ hide_description: true
 permalink: /papers/
 ---
 
-[Time Series]{:.heading.flip-title}
-[Mamba]{:.heading.flip-title}
+[Time Series]{:.heading.flip-title}  
+[Mamba]{:.heading.flip-title}  
 [LLM]{:.heading.flip-title}
 
 {:.related-posts.faded}
