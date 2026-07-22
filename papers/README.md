@@ -7,12 +7,12 @@ hide_description: true
 permalink: /papers/
 ---
 
-[Time Series][timeseries]{:.heading.flip-title}
-[Mamba][mamba]{:.heading.flip-title}
-[LLM][llm]{:.heading.flip-title}
+[Time Series]{:.heading.flip-title}
+[Mamba]{:.heading.flip-title}
+[LLM]{:.heading.flip-title}
 
 {:.related-posts.faded}
 
-[timeseries]: /timeseries/
-[mamba]: /mamba/
-[llm]: /llm/
+[Time Series]: /timeseries/
+[Mamba]: /mamba/
+[LLM]: /llm/
