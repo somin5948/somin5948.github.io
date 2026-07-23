@@ -2,15 +2,13 @@
 layout: post
 related_posts:
   _
-title: 
+title: "Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting (ICLR 2022)"
 original_paper: >
   [ICLR 2022](https://arxiv.org/pdf/2012.07436)
 hide_last_modified: true
 ---
 
 {% include original-paper.html %}
-
-# Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting (ICLR 2022)
 
 ## Abstract
 

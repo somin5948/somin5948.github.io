@@ -2,15 +2,13 @@
 layout: post
 related_posts:
   _
-title: 
+title: "[Survey Paper] Transformers in Time Series: A Survey (IJCAI 2023)"
 original_paper: >
   [IJCAI 2023](https://arxiv.org/pdf/2202.07125.pdf)
 hide_last_modified: true
 ---
 
 {% include original-paper.html %}
-
-# (Survey paper) Transformers in Time Series: A Survey (IJCAI 2023)
 
 ## Abstract
 

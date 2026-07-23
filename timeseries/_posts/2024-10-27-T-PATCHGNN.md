@@ -2,15 +2,13 @@
 layout: post
 related_posts:
   _
-title: 
+title: "Irregular Multivariate Time Series Forecasting: A Transformable Patching Graph Neural Networks Approach (ICML 2024)"
 original_paper: >
   [ICML 2024](https://openreview.net/pdf?id=UZlMXUGI6e)
 hide_last_modified: true
 ---
 
 {% include original-paper.html %}
-
-# T-PATCHGNN: Irregular Multivariate Time Series Forecasting: A Transformable Patching Graph Neural Networks Approach (ICML 2024)
 
 ## Abstract
 

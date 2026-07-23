@@ -2,15 +2,13 @@
 layout: post
 related_posts:
   _
-title: 
+title: "TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting (ICLR 2024)"
 original_paper: >
   [ICLR 2024](https://openreview.net/pdf?id=7oLshfEIC2)
 hide_last_modified: true
 ---
 
 {% include original-paper.html %}
-
-# TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting (ICLR 2024)
 
 ## Abstract
 

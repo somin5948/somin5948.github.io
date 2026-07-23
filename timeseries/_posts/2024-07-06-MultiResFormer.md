@@ -2,15 +2,13 @@
 layout: post
 related_posts:
   _
-title: 
+title: "MultiResFormer: Transformer with Adaptive Multi-Resolution Modeling for General Time Series Forecasting (arXiv 2023)"
 original_paper: >
-  [Arxiv 2023](https://arxiv.org/pdf/2311.18780)
+  [arXiv 2023](https://arxiv.org/pdf/2311.18780)
 hide_last_modified: true
 ---
 
 {% include original-paper.html %}
-
-# MultiResFormer: Transformer with Adaptive Multi-Resolution Modeling for General Time Series Forecasting (Arxiv 2023)
 
 ## Abstract
 
