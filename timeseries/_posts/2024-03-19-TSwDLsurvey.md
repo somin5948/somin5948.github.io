@@ -3,13 +3,12 @@ layout: post
 related_posts:
   _
 title: 
-description: >
+original_paper: >
   [Philos Trans R Soc A. 2020](https://arxiv.org/pdf/2004.13408.pdf)
-sitemap:
-    changefreq: daily
-    priority: 1.0
 hide_last_modified: true
 ---
+
+{% include original-paper.html %}
 
 # (Survey paper) Time Series Forecasting With Deep Learning A Survey (Philos Trans R Soc A. 2020)
 

@@ -1,0 +1,5 @@
+{% if page.original_paper %}
+<p class="note-sm original-paper">
+  {{ page.original_paper | markdownify | remove: '<p>' | remove: '</p>' }}
+</p>
+{% endif %}

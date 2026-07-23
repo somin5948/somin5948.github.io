@@ -3,13 +3,12 @@ layout: post
 related_posts:
   _
 title: 
-description: >
+original_paper: >
   [ICLR 2025 Oral](https://openreview.net/pdf?id=1CLzLXSFNn)
-sitemap:
-    changefreq: daily
-    priority: 1.0
 hide_last_modified: true
 ---
+
+{% include original-paper.html %}
 
 # TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis (ICLR 2025)
 

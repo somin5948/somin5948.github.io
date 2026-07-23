@@ -3,13 +3,12 @@ layout: post
 related_posts:
   _
 title: 
-description: >
+original_paper: >
   [ECAI 2024](https://arxiv.org/abs/2403.09898)
-sitemap:
-    changefreq: daily
-    priority: 1.0
 hide_last_modified: true
 ---
+
+{% include original-paper.html %}
 
 # TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting (ECAI 2024)
 

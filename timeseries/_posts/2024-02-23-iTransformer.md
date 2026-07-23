@@ -3,13 +3,12 @@ layout: post
 related_posts:
   _
 title: 
-description: >
+original_paper: >
   [ICLR 2024](https://arxiv.org/abs/2310.06625)
-sitemap:
-    changefreq: daily
-    priority: 1.0
 hide_last_modified: true
 ---
+
+{% include original-paper.html %}
 
 # iTransformer: Inverted Transformers are Effective for Time Series Forecasting (ICLR 2024)
 

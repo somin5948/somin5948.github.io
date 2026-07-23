@@ -3,13 +3,12 @@ layout: post
 related_posts:
   _
 title: 
-description: >
+original_paper: >
   [NMI 2023](https://www.nature.com/articles/s42256-023-00667-9)
-sitemap:
-    changefreq: daily
-    priority: 1.0
 hide_last_modified: true
 ---
+
+{% include original-paper.html %}
 
 # Corrformer: Interpretable weather forecasting for worldwide stations with a unified deep model (NMI 2023)
 

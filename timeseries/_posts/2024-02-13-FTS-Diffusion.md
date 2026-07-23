@@ -3,13 +3,12 @@ layout: post
 related_posts:
   _
 title: 
-description: >
+original_paper: >
   [ICLR 2024](https://openreview.net/pdf?id=CdjnzWsQax)
-sitemap:
-    changefreq: daily
-    priority: 1.0
 hide_last_modified: true
 ---
+
+{% include original-paper.html %}
 
 # FTS-Diffusion: Generative Learning for Financial Time Series with Irregular and Scale-invariant Patterns (ICLR 2024)
 

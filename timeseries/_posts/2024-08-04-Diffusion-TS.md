@@ -3,13 +3,12 @@ layout: post
 related_posts:
   _
 title: 
-description: >
+original_paper: >
   [ICLR 2024](https://arxiv.org/pdf/2403.01742)
-sitemap:
-    changefreq: daily
-    priority: 1.0
 hide_last_modified: true
 ---
+
+{% include original-paper.html %}
 
 # Diffusion-TS: Interpretable Diffusion for General Time Series Generation (ICLR 2024)
 

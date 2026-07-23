@@ -3,13 +3,12 @@ layout: post
 related_posts:
   _
 title: 
-description: >
+original_paper: >
   [ICLR 2024](https://openreview.net/pdf?id=lJkOCMP2aW)
-sitemap:
-    changefreq: daily
-    priority: 1.0
 hide_last_modified: true
 ---
+
+{% include original-paper.html %}
 
 # Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting (ICLR 2024)
 
