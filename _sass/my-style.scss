@@ -34,3 +34,22 @@
   color: inherit !important;
   opacity: 1 !important;
 }
+
+#_sidebar a[href$="/timeseries/"],
+#_sidebar a[href$="/mamba/"],
+#_sidebar a[href$="/llm/"] {
+  font-size: 0.72em;
+  font-weight: 600;
+  opacity: 0.8;
+}
+
+#_sidebar a[href$="/timeseries/"]::before,
+#_sidebar a[href$="/mamba/"]::before,
+#_sidebar a[href$="/llm/"]::before {
+  content: "· ";
+}
+
+/* 마지막 하위 메뉴와 다음 대분류 사이 간격 */
+#_sidebar a[href$="/llm/"] {
+  margin-bottom: 0.7rem;
+}

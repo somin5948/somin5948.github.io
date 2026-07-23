@@ -56,6 +56,12 @@ menu:
 #    url:               /docs/
   - title:             Papers
     url:               /papers/
+  - title:             Time Series
+    url:               /timeseries/
+  - title:             Mamba
+    url:               /mamba/
+  - title:             LLM
+    url:               /llm/
   - title:             Statistics
     url:               /statistics/
   - title:             PyTorch
