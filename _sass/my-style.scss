@@ -35,12 +35,19 @@
   opacity: 1 !important;
 }
 
+/* Papers는 제목 역할만 하고 클릭되지 않게 */
+#_sidebar a[href$="/papers/"] {
+  pointer-events: none;
+  cursor: default;
+}
+
+/* Papers 하위 카테고리 */
 #_sidebar a[href$="/timeseries/"],
 #_sidebar a[href$="/mamba/"],
 #_sidebar a[href$="/llm/"] {
-  font-size: 0.72em;
+  font-size: 0.85em;
   font-weight: 600;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 #_sidebar a[href$="/timeseries/"]::before,
@@ -49,7 +56,7 @@
   content: "· ";
 }
 
-/* 마지막 하위 메뉴와 다음 대분류 사이 간격 */
+/* 하위 카테고리와 다음 대분류 사이 간격 */
 #_sidebar a[href$="/llm/"] {
   margin-bottom: 0.7rem;
 }
