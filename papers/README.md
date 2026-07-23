@@ -3,13 +3,12 @@ layout: page
 title: Papers
 description: >
   Paper reviews and study notes.
-hide_description: true
 permalink: /papers/
 ---
 
-[Time Series]{:.heading.flip-title}  
-[Mamba]{:.heading.flip-title}  
-[LLM]{:.heading.flip-title}
+[Time Series]{:.heading.flip-title.papers-category}
+[Mamba]{:.heading.flip-title.papers-category}
+[LLM]{:.heading.flip-title.papers-category}
 
 {:.related-posts.faded}
 

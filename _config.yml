@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Data Science and Statistics
+tagline:               Data Science and AI
 
 # A list of keywords for your blog
 keywords:              []
@@ -320,6 +320,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - functions
+  - _posts
+  - example/_posts
 include:
   - _routes.json
   - .well-known
