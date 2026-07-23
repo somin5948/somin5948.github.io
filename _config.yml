@@ -58,6 +58,8 @@ menu:
     url:               /papers/
   - title:             Statistics
     url:               /statistics/
+  - title:             PyTorch
+    url:               /pytorch/
   - title:             About
     url:               /about/
 
