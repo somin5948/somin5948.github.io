@@ -2,11 +2,13 @@
 layout: post
 related_posts:
   _
-title: "(Corrformer, NMI 2023) Code Review 2 - Data Embedding"
-description: >
-  [Corrformer github](https://github.com/thuml/Corrformer)
+title: "[Code Review] Corrformer: Data Embedding (NMI 2023)"
+code_repository: >
+  [Corrformer GitHub](https://github.com/thuml/Corrformer)
 hide_last_modified: true
 ---
+
+{% include code-repository.html %}
 
 - step 0. Initialization and Normalizaiton
 - step 1. Data Embedding Instance

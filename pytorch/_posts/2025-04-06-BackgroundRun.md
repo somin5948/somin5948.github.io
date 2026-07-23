@@ -2,7 +2,7 @@
 layout: post
 related_posts:
   _
-title: "동시에 실험(훈련)하는 방법 (BackgroundRun)"
+title: "동시에 실험(훈련)하는 방법 (Background Run)"
 description: >
 hide_last_modified: true
 ---

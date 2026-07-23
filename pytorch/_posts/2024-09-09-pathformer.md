@@ -2,15 +2,18 @@
 layout: post
 related_posts:
   _
-title: "(Code Review, ICLR 2024) Pathformer"
-description: >
-  [Pathformer github](https://github.com/decisionintelligence/pathformer)
+title: "[Code Review] Pathformer (ICLR 2024)"
+code_repository: >
+  [Pathformer GitHub](https://github.com/decisionintelligence/pathformer)
+original_paper: >
+  [Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting](https://openreview.net/pdf?id=lJkOCMP2aW)
 hide_last_modified: true
 ---
 
-[(Paper) Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting](https://openreview.net/pdf?id=lJkOCMP2aW)
+{% include code-repository.html %}
+{% include original-paper.html %}
 
-[(Paper Review, ICLR 2024) Pathformer](https://lpppj.github.io/timeseries/2024-05-23-Pathformer)
+[\[Paper Review\] Pathformer (ICLR 2024)](https://somin5948.github.io/timeseries/2024-05-23-Pathformer)
 
 ## 1. Git clone
 

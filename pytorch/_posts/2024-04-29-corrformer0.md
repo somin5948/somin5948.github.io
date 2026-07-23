@@ -2,16 +2,18 @@
 layout: post
 related_posts:
   _
-title: "(Corrformer, NMI 2023) Code Review 0 - Code Structure"
-description: >
-  [Corrformer github](https://github.com/thuml/Corrformer)
+title: "[Code Review] Corrformer: Code Structure (NMI 2023)"
+code_repository: >
+  [Corrformer GitHub](https://github.com/thuml/Corrformer)
 hide_last_modified: true
 ---
+
+{% include code-repository.html %}
 
 ![사진1](/assets/img/pytorch/corrformer0/corrformer01.png)
 ![사진2](/assets/img/pytorch/corrformer0/corrformer02.png)
 
-- [Corrformer github](https://github.com/thuml/Corrformer)에서 `Corrformer.sh`를 확인하면 되겠다.
+- [Corrformer GitHub](https://github.com/thuml/Corrformer)에서 `Corrformer.sh`를 확인하면 되겠다.
 
 ### Corrformer.sh
 

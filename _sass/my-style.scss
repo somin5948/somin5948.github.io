@@ -17,3 +17,8 @@
   content: "ORIGINAL PAPER";
   display: block;
 }
+
+.code-repository::before {
+  content: "CODE REPOSITORY";
+  display: block;
+}

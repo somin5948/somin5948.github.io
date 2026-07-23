@@ -2,11 +2,13 @@
 layout: post
 related_posts:
   _
-title: "(Corrformer, NMI 2023) Code Review 1 - Overall Framework"
-description: >
-  [Corrformer github](https://github.com/thuml/Corrformer)
+title: "[Code Review] Corrformer: Overall Framework (NMI 2023)"
+code_repository: >
+  [Corrformer GitHub](https://github.com/thuml/Corrformer)
 hide_last_modified: true
 ---
+
+{% include code-repository.html %}
 
 ![사진11](/assets/img/pytorch/corrformer0/corrformer011.png)
 

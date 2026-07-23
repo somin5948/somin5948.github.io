@@ -2,11 +2,13 @@
 layout: post
 related_posts:
   _
-title: "(Corrformer, NMI 2023) Code Review 3 - Encoder"
-description: >
-  [Corrformer github](https://github.com/thuml/Corrformer)
+title: "[Code Review] Corrformer: Encoder (NMI 2023)"
+code_repository: >
+  [Corrformer GitHub](https://github.com/thuml/Corrformer)
 hide_last_modified: true
 ---
+
+{% include code-repository.html %}
 
 ![사진10](/assets/img/pytorch/corrformer0/corrformer010.jpeg)
 - 우리는 `exp_main`의 `train` 메소드를 실행하고 있다.
